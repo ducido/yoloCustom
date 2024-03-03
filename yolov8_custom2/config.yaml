@@ -1,0 +1,34 @@
+# path: D:/Pixta/mnt/md0/projects/sami-hackathon/private/data
+# path: D:/Pixta/md0/projects/sami-hackathon/private/data
+path: D:\Pixta\private_test
+# path: D:\Pixta\data_duplicate\data
+train: images
+val: images
+
+nc: 25
+names:
+  0: face
+  1: 20-30s
+  2: 40-50s
+  3: Baby
+  4: Kid
+  5: Senior
+  6: Teenager
+  7: Caucasian
+  8: Mongoloid
+  9: Negroid
+  10: masked
+  11: unmasked
+  12: dark
+  13: light
+  14: mid-dark
+  15: mid-light
+  16: Anger
+  17: Disgust
+  18: Fear
+  19: Happiness
+  20: Neutral
+  21: Sadness
+  22: Surprise
+  23: Female
+  24: Male

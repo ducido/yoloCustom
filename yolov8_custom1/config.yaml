@@ -1,0 +1,10 @@
+# path: D:/Pixta/mnt/md0/projects/sami-hackathon/private/data
+# path: D:/Pixta/md0/projects/sami-hackathon/private/data
+path: D:\Pixta\black_data_hope
+# path: D:\Pixta\data_duplicate\data
+train: images
+val: images
+
+nc: 1
+names:
+  0: face
